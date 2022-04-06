@@ -62,7 +62,7 @@ nbformat==5.2.0
 nest-asyncio==1.5.4
 networkx==2.7.1
 nltk==3.7
-notebook==6.4.9
+notebook==6.4.10
 notebook-shim==0.1.0
 numpy==1.22.3
 openpyxl==3.0.9
